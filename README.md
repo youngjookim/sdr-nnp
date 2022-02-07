@@ -1,4 +1,7 @@
 # Sharpened Dimensionality Reduction with Neural Networks(SDR-NNP)
+## Authors
+Youngjoo Kim, Mateus Espadoto, Scott C. Trager, Jos B. T. M. Roerdink, Alexandru C. Telea
+
 ## Table of contents
 * [About](#about)
 * [Setup](#setup)
