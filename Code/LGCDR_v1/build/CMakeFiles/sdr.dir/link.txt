@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O3 -march=native CMakeFiles/sdr.dir/main.cpp.o -o sdr  -lstdc++fs 

@@ -1,0 +1,6 @@
+Learning rate: 0.1
+Tapkee DR used: 15
+
+Wall-clock time of vanilla DR: 0.0011057
+Wall-clock time of LGC step of SDR: 2.66637
+Wall-clock time of DR step of SDR: 0.0008303

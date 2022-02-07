@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tapkee-linux": "cpp",
+        "cstring": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp"
+    }
+}
